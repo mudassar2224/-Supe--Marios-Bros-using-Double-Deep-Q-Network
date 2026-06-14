@@ -9,6 +9,8 @@ An end-to-end Reinforcement Learning agent trained to play **Super Mario Bros (W
 
 ---
 <img width="1164" height="1164" alt="image" src="https://github.com/user-attachments/assets/079eebb3-bf4a-4ff5-89f1-deeb6d678dc5" />
+<img width="521" height="490" alt="image" src="https://github.com/user-attachments/assets/540461ed-0f51-4e72-839b-6b5817babcaa" />
+
 
 
 ## 🎯 Project Overview

@@ -8,6 +8,8 @@ An end-to-end Reinforcement Learning agent trained to play **Super Mario Bros (W
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
+<img width="1164" height="1164" alt="image" src="https://github.com/user-attachments/assets/079eebb3-bf4a-4ff5-89f1-deeb6d678dc5" />
+
 
 ## 🎯 Project Overview
 
